@@ -1,3 +1,5 @@
+Based on: http://www.eligotech.com/using-vagrant-for-setting-up-a-cloudera-based-hadoop-cluster/
+
 
 This project uses Vagrant to create three virtual machines. Then you can connect to Cloudera Manager to install Hadoop and other tools.
 
